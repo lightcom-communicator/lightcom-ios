@@ -1,0 +1,60 @@
+{
+  "originHash" : "3ee6fe206df017b4e91db923c924512cc1eb1ee50fa6402d494ed9a8fc9f4bdc",
+  "pins" : [
+    {
+      "identity" : "hsauth-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aeoliux/hsauth-swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ad1cbea2c676db6ea3e956eab42f352d299415bf"
+      }
+    },
+    {
+      "identity" : "lightcom-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lightcom-communicator/Lightcom-Swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "204fcf525f4ee5e0be61a82b2fe34235b62a582c"
+      }
+    },
+    {
+      "identity" : "phc-winner-argon2",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/P-H-C/phc-winner-argon2.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f57e61e19229e23c4445b85494dbf7c07de721cb"
+      }
+    },
+    {
+      "identity" : "swift-crypto",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-crypto.git",
+      "state" : {
+        "revision" : "bc1c29221f6dfeb0ebbfbc98eb95cd3d4967868e",
+        "version" : "3.4.0"
+      }
+    },
+    {
+      "identity" : "swift-libcrypto",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/M3DZIK/swift-libcrypto",
+      "state" : {
+        "branch" : "main",
+        "revision" : "47c73c31acb97dcddbfd5a42a704a36dd6cb0b5b"
+      }
+    },
+    {
+      "identity" : "websocketclient",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aeoliux/WebsocketClient",
+      "state" : {
+        "branch" : "main",
+        "revision" : "16f3c540658672b733e8aa99606c8841f04eaafb"
+      }
+    }
+  ],
+  "version" : 3
+}

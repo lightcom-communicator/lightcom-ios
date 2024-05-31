@@ -7,20 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B2AA80B92C04B12D004A1720 /* LightcomApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AA80B82C04B12D004A1720 /* LightcomApp.swift */; };
-		B2AA80BB2C04B12D004A1720 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AA80BA2C04B12D004A1720 /* ContentView.swift */; };
-		B2AA80BD2C04B12D004A1720 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AA80BC2C04B12D004A1720 /* Item.swift */; };
+		B236FE3F2C08D9520017F5A9 /* NewMessages.swift in Sources */ = {isa = PBXBuildFile; fileRef = B236FE3E2C08D9520017F5A9 /* NewMessages.swift */; };
 		B2AA80BF2C04B12E004A1720 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2AA80BE2C04B12E004A1720 /* Assets.xcassets */; };
-		B2AA80C22C04B12E004A1720 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2AA80C12C04B12E004A1720 /* Preview Assets.xcassets */; };
+		B2AA80CD2C04B14C004A1720 /* Password.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AA80C92C04B14C004A1720 /* Password.swift */; };
+		B2AA80CE2C04B14C004A1720 /* LightcomApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AA80CA2C04B14C004A1720 /* LightcomApp.swift */; };
+		B2AA80CF2C04B14C004A1720 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AA80CB2C04B14C004A1720 /* ContentView.swift */; };
+		B2AA80D22C04B15F004A1720 /* Lightcom-Swift in Frameworks */ = {isa = PBXBuildFile; productRef = B2AA80D12C04B15F004A1720 /* Lightcom-Swift */; };
+		B2AA80D42C04B43F004A1720 /* InstancesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AA80D32C04B43F004A1720 /* InstancesList.swift */; };
+		B2AA80D62C04B695004A1720 /* NewInstance.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AA80D52C04B695004A1720 /* NewInstance.swift */; };
+		B2EAE3982C04F6770011018E /* ChannelsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2EAE3972C04F6770011018E /* ChannelsList.swift */; };
+		B2EAE39A2C04FA240011018E /* InstancesStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2EAE3992C04FA240011018E /* InstancesStorage.swift */; };
+		B2EAE39C2C04FA5E0011018E /* ChannelsStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2EAE39B2C04FA5E0011018E /* ChannelsStorage.swift */; };
+		B2EAE39E2C04FF720011018E /* NewChannel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2EAE39D2C04FF720011018E /* NewChannel.swift */; };
+		B2F0DD3C2C062C3200642693 /* ChannelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F0DD3B2C062C3200642693 /* ChannelView.swift */; };
+		B2F0DD3E2C062C4600642693 /* MessagesStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2F0DD3D2C062C4600642693 /* MessagesStorage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B236FE3E2C08D9520017F5A9 /* NewMessages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewMessages.swift; sourceTree = "<group>"; };
 		B2AA80B52C04B12D004A1720 /* Lightcom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lightcom.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		B2AA80B82C04B12D004A1720 /* LightcomApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LightcomApp.swift; sourceTree = "<group>"; };
-		B2AA80BA2C04B12D004A1720 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		B2AA80BC2C04B12D004A1720 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		B2AA80BE2C04B12E004A1720 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B2AA80C12C04B12E004A1720 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B2AA80C92C04B14C004A1720 /* Password.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Password.swift; sourceTree = "<group>"; };
+		B2AA80CA2C04B14C004A1720 /* LightcomApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LightcomApp.swift; sourceTree = "<group>"; };
+		B2AA80CB2C04B14C004A1720 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B2AA80D32C04B43F004A1720 /* InstancesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstancesList.swift; sourceTree = "<group>"; };
+		B2AA80D52C04B695004A1720 /* NewInstance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewInstance.swift; sourceTree = "<group>"; };
+		B2EAE3972C04F6770011018E /* ChannelsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelsList.swift; sourceTree = "<group>"; };
+		B2EAE3992C04FA240011018E /* InstancesStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstancesStorage.swift; sourceTree = "<group>"; };
+		B2EAE39B2C04FA5E0011018E /* ChannelsStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelsStorage.swift; sourceTree = "<group>"; };
+		B2EAE39D2C04FF720011018E /* NewChannel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewChannel.swift; sourceTree = "<group>"; };
+		B2F0DD3B2C062C3200642693 /* ChannelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelView.swift; sourceTree = "<group>"; };
+		B2F0DD3D2C062C4600642693 /* MessagesStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesStorage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -28,6 +46,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2AA80D22C04B15F004A1720 /* Lightcom-Swift in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,9 +72,11 @@
 		B2AA80B72C04B12D004A1720 /* Lightcom */ = {
 			isa = PBXGroup;
 			children = (
-				B2AA80B82C04B12D004A1720 /* LightcomApp.swift */,
-				B2AA80BA2C04B12D004A1720 /* ContentView.swift */,
-				B2AA80BC2C04B12D004A1720 /* Item.swift */,
+				B2F0DD3A2C062C1500642693 /* Messages */,
+				B2EAE3962C04F65E0011018E /* Channels */,
+				B2EAE3952C04F6350011018E /* Instances */,
+				B2AA80CB2C04B14C004A1720 /* ContentView.swift */,
+				B2AA80CA2C04B14C004A1720 /* LightcomApp.swift */,
 				B2AA80BE2C04B12E004A1720 /* Assets.xcassets */,
 				B2AA80C02C04B12E004A1720 /* Preview Content */,
 			);
@@ -68,6 +89,37 @@
 				B2AA80C12C04B12E004A1720 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B2EAE3952C04F6350011018E /* Instances */ = {
+			isa = PBXGroup;
+			children = (
+				B2AA80C92C04B14C004A1720 /* Password.swift */,
+				B2AA80D32C04B43F004A1720 /* InstancesList.swift */,
+				B2AA80D52C04B695004A1720 /* NewInstance.swift */,
+				B2EAE3992C04FA240011018E /* InstancesStorage.swift */,
+			);
+			path = Instances;
+			sourceTree = "<group>";
+		};
+		B2EAE3962C04F65E0011018E /* Channels */ = {
+			isa = PBXGroup;
+			children = (
+				B2EAE3972C04F6770011018E /* ChannelsList.swift */,
+				B2EAE39B2C04FA5E0011018E /* ChannelsStorage.swift */,
+				B2EAE39D2C04FF720011018E /* NewChannel.swift */,
+				B236FE3E2C08D9520017F5A9 /* NewMessages.swift */,
+			);
+			path = Channels;
+			sourceTree = "<group>";
+		};
+		B2F0DD3A2C062C1500642693 /* Messages */ = {
+			isa = PBXGroup;
+			children = (
+				B2F0DD3B2C062C3200642693 /* ChannelView.swift */,
+				B2F0DD3D2C062C4600642693 /* MessagesStorage.swift */,
+			);
+			path = Messages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -86,6 +138,9 @@
 			dependencies = (
 			);
 			name = Lightcom;
+			packageProductDependencies = (
+				B2AA80D12C04B15F004A1720 /* Lightcom-Swift */,
+			);
 			productName = Lightcom;
 			productReference = B2AA80B52C04B12D004A1720 /* Lightcom.app */;
 			productType = "com.apple.product-type.application";
@@ -102,6 +157,7 @@
 				TargetAttributes = {
 					B2AA80B42C04B12D004A1720 = {
 						CreatedOnToolsVersion = 15.4;
+						LastSwiftMigration = 1540;
 					};
 				};
 			};
@@ -114,6 +170,9 @@
 				Base,
 			);
 			mainGroup = B2AA80AC2C04B12D004A1720;
+			packageReferences = (
+				B2AA80D02C04B15F004A1720 /* XCRemoteSwiftPackageReference "Lightcom-Swift" */,
+			);
 			productRefGroup = B2AA80B62C04B12D004A1720 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -128,7 +187,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B2AA80C22C04B12E004A1720 /* Preview Assets.xcassets in Resources */,
 				B2AA80BF2C04B12E004A1720 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,9 +198,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B2AA80BB2C04B12D004A1720 /* ContentView.swift in Sources */,
-				B2AA80BD2C04B12D004A1720 /* Item.swift in Sources */,
-				B2AA80B92C04B12D004A1720 /* LightcomApp.swift in Sources */,
+				B2EAE3982C04F6770011018E /* ChannelsList.swift in Sources */,
+				B2AA80CD2C04B14C004A1720 /* Password.swift in Sources */,
+				B236FE3F2C08D9520017F5A9 /* NewMessages.swift in Sources */,
+				B2AA80D62C04B695004A1720 /* NewInstance.swift in Sources */,
+				B2AA80D42C04B43F004A1720 /* InstancesList.swift in Sources */,
+				B2EAE39A2C04FA240011018E /* InstancesStorage.swift in Sources */,
+				B2F0DD3E2C062C4600642693 /* MessagesStorage.swift in Sources */,
+				B2EAE39C2C04FA5E0011018E /* ChannelsStorage.swift in Sources */,
+				B2EAE39E2C04FF720011018E /* NewChannel.swift in Sources */,
+				B2AA80CF2C04B14C004A1720 /* ContentView.swift in Sources */,
+				B2F0DD3C2C062C3200642693 /* ChannelView.swift in Sources */,
+				B2AA80CE2C04B14C004A1720 /* LightcomApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,16 +340,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Lightcom/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Lightcom;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.social-networking";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -291,6 +362,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.github.aeoliux.Lightcom;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -301,16 +373,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Lightcom/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Lightcom;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.social-networking";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -346,6 +422,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		B2AA80D02C04B15F004A1720 /* XCRemoteSwiftPackageReference "Lightcom-Swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/lightcom-communicator/Lightcom-Swift";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		B2AA80D12C04B15F004A1720 /* Lightcom-Swift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B2AA80D02C04B15F004A1720 /* XCRemoteSwiftPackageReference "Lightcom-Swift" */;
+			productName = "Lightcom-Swift";
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = B2AA80AD2C04B12D004A1720 /* Project object */;
 }
